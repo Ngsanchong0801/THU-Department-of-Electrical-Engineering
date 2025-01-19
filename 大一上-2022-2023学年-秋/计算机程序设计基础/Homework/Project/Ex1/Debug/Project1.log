@@ -1,0 +1,10 @@
+﻿生成启动时间为 22/9/2022 23:53:41。
+     1>项目“W:\ConsoleApplication1\Project\Project1\Project1.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         W:\APPS\Visual_Studio_Premium_2012_\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"W:\ConsoleApplication1\Project\Project1\Debug\Project1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"W:\ConsoleApplication1\Project\Project1\Debug\Project1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"W:\ConsoleApplication1\Project\Project1\Debug\Project1.lib" /MACHINE:X86 Debug\sb.obj
+         Project1.vcxproj -> W:\ConsoleApplication1\Project\Project1\Debug\Project1.exe
+     1>已完成生成项目“W:\ConsoleApplication1\Project\Project1\Project1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.38
