@@ -6,4 +6,4 @@
 本项目记录了作者在清华电机系就读本科期间的课程资料,希望能对未来的电机学子们提供一定帮助!
 
 ## 电机系选课指南
-【腾讯文档】电机系选课指南 https://docs.qq.com/sheet/DTWlBTERkaE56ckxY
+【腾讯文档】电机系选课指南 (https://docs.qq.com/sheet/DTWlBTERkaE56ckxY)
