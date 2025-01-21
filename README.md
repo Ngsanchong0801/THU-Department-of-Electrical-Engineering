@@ -25,7 +25,7 @@ courseX(https://tsinghua.app/courses)
 清华大学电子教学参考书服务平台辅助脚本(https://github.com/A1phaN/tsinghua-ereserves-lib-downloader?tab=readme-ov-file)
 
 
-## 清华大學
+## 清华大学实用链结
 THU手册(https://yourschool.cc/thubook/)
 
 
