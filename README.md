@@ -13,12 +13,20 @@
 电机系祖传云盘(https://cloud.tsinghua.edu.cn/d/d0d66bf31b95408ab095/)
 
 ## 一些实用的学习工具
-THU手册(https://yourschool.cc/thubook/)
+THU Info(https://github.com/thu-info-community/thu-info-app)
 
 
+learnX(https://github.com/robertying/learnX)
+
+
+courseX(https://tsinghua.app/courses)
 
 
 清华大学电子教学参考书服务平台辅助脚本(https://github.com/A1phaN/tsinghua-ereserves-lib-downloader?tab=readme-ov-file)
+
+
+## 清华大學
+THU手册(https://yourschool.cc/thubook/)
 
 
 华清大学课程攻略共享计划(https://in.closed.social:9443/pastExam/login/)
